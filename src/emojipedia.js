@@ -33,6 +33,13 @@ const emojipedia = [
     name: "Grinning Face",
     meaning:
       "A yellow face with simple, open eyes and a broad, open smile, showing upper teeth and tongue on some platforms. Often conveys general pleasure and good cheer or humor."
+  },
+  {
+    id: 6,
+    emoji: "😈",
+    name: "Smiling Face with Horns",
+    meaning:
+      "A face, usually purple, with devil horns, a wide grin, and eyes and eyebrows scrunched downward in the same manner as 😠 Angry Face on most platforms. Google’s design is red and Facebook’s has black horns and green eyes."
   }
 ];
 
