@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/emojipedia/static/js/main.f63b4bc3.chunk.js",
-    "main.js.map": "/emojipedia/static/js/main.f63b4bc3.chunk.js.map",
+    "main.js": "/emojipedia/static/js/main.db561ee1.chunk.js",
+    "main.js.map": "/emojipedia/static/js/main.db561ee1.chunk.js.map",
     "runtime-main.js": "/emojipedia/static/js/runtime-main.d52a7a0e.js",
     "runtime-main.js.map": "/emojipedia/static/js/runtime-main.d52a7a0e.js.map",
     "static/js/2.fc726699.chunk.js": "/emojipedia/static/js/2.fc726699.chunk.js",
     "static/js/2.fc726699.chunk.js.map": "/emojipedia/static/js/2.fc726699.chunk.js.map",
     "index.html": "/emojipedia/index.html",
-    "precache-manifest.040c1f70c758ea616cd62b64eb9580fe.js": "/emojipedia/precache-manifest.040c1f70c758ea616cd62b64eb9580fe.js",
+    "precache-manifest.f724b7d45cb1f7d878ed39a3f0cdca86.js": "/emojipedia/precache-manifest.f724b7d45cb1f7d878ed39a3f0cdca86.js",
     "service-worker.js": "/emojipedia/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.d52a7a0e.js",
     "static/js/2.fc726699.chunk.js",
-    "static/js/main.f63b4bc3.chunk.js"
+    "static/js/main.db561ee1.chunk.js"
   ]
 }
